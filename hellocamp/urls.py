@@ -5,6 +5,6 @@ from scraper.views import DynamicScraperView
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', IndexView.as_view(), name='index'),   
-    path('scraper/', DynamicScraperView.as_view(), name='scraper'), 
+    path('home/', IndexView.as_view(), name='index'),   
+    path('', DynamicScraperView.as_view(), name='scraper'), 
 ]

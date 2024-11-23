@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'camps.apps.CampsConfig',
     'scraper.apps.ScraperConfig',
+    'scrapy'
 ]
 
 MIDDLEWARE = [

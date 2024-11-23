@@ -24,4 +24,3 @@ class DynamicScraperView(View):
         # Use the reusable scraper function
         result = dynamic_scraper_function(target_url)
         return JsonResponse(result)
-
