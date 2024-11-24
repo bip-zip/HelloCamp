@@ -1,0 +1,405 @@
+[
+    {
+        "model": "camps.camp",
+        "pk": 1,
+        "fields": {
+            "name": "Timber Lake Camp",
+            "address": "354 Timber Lake Road, Shandaken, NY 12480",
+            "email": null,
+            "phone": "845-688-2266",
+            "activities": "Traditional camp activities including swimming, canoeing, hiking, sports, arts & crafts, and more.",
+            "cost": 0,
+            "age_group": null,
+            "start_date": "2024-06-28",
+            "end_date": "2024-08-16",
+            "spots_available": null,
+            "url": "https://www.timberlakecamp.com",
+            "image": null
+        }
+    },
+    {
+        "model": "camps.camp",
+        "pk": 2,
+        "fields": {
+            "name": "Timber Lake Camp Winter Location",
+            "address": "85 Crescent Beach Road, Glen Cove, NY 11542",
+            "email": null,
+            "phone": "516-656-4200",
+            "activities": "Winter retreats and camp-related activities.",
+            "cost": 0,
+            "age_group": null,
+            "start_date": null,
+            "end_date": null,
+            "spots_available": null,
+            "url": "https://www.timberlakecamp.com",
+            "image": null
+        }
+    },
+    {
+        "model": "camps.camp",
+        "pk": 1,
+        "fields": {
+            "name": "Camp Mondamin",
+            "address": "Located in the Mountains of Western North Carolina",
+            "email": "mondamin@mondamin.com",
+            "phone": "(828) 693-7446",
+            "activities": "Outdoor activities including hiking, kayaking, canoeing, sailing, mountain biking, rock climbing, horseback riding.",
+            "cost": 0,
+            "age_group": "Boys, ages 6 to 17",
+            "start_date": null,
+            "end_date": null,
+            "spots_available": null,
+            "url": "https://www.mondamin.com",
+            "image": null
+        }
+    },
+    {
+        "model": "camps.camp",
+        "pk": 1,
+        "fields": {
+            "name": "Camp North Star",
+            "address": "200 Verrill Road, Poland Spring, ME 04274",
+            "email": "info@campnorthstarmaine.com",
+            "phone": "207.998.4777",
+            "activities": "Outdoor activities including arts, athletics, waterfront activities, and leadership training programs.",
+            "cost": 0,
+            "age_group": "Children, ages 6 to 17",
+            "start_date": null,
+            "end_date": null,
+            "spots_available": null,
+            "url": "https://www.campnorthstarmaine.com",
+            "image": null
+        }
+    },
+    {
+        "model": "camps.camp",
+        "pk": 1,
+        "fields": {
+            "name": "Amplify Sleep Away Camp",
+            "address": "8585 N Ojai Santa Paula Rd, Ojai, CA 93023, United States",
+            "email": "jen@amplifyartsproject.org",
+            "phone": "805-699-5247",
+            "activities": "Music, photography, musical theater, music production, skateboarding, screen printing, DJing, swimming, beach days, surfing, karaoke, dance parties, and more.",
+            "cost": 0,
+            "age_group": "All ages; 3rd-12th grade",
+            "start_date": null,
+            "end_date": null,
+            "spots_available": null,
+            "url": "https://amplifyartsproject.org",
+            "image": null
+        }
+    },
+    {
+        "model": "camps.camp",
+        "pk": 2,
+        "fields": {
+            "name": "Amplify Day Camp",
+            "address": "8585 N Ojai Santa Paula Rd, Ojai, CA 93023, United States",
+            "email": "jen@amplifyartsproject.org",
+            "phone": "805-699-5247",
+            "activities": "Day-only immersive creative instruction, elective activities, beach days, final showcase.",
+            "cost": 0,
+            "age_group": "Grades 3-8",
+            "start_date": null,
+            "end_date": null,
+            "spots_available": null,
+            "url": "https://amplifyartsproject.org",
+            "image": null
+        }
+    },
+    {
+        "model": "camps.camp",
+        "pk": 1,
+        "fields": {
+            "name": "Camp Quest",
+            "address": "PO Box 449, Pickens, SC, 29671, USA",
+            "email": "camp@campquest.org",
+            "phone": "(540) 209-7978",
+            "activities": "Nature exploration, critical thinking workshops, science, ethics, philosophy, and community-building activities.",
+            "cost": 0,
+            "age_group": "8-17 years",
+            "start_date": null,
+            "end_date": null,
+            "spots_available": null,
+            "url": "https://campquest.org",
+            "image": null
+        }
+    },
+    {
+        "model": "camps.camp",
+        "pk": 1,
+        "fields": {
+            "name": "4-H Camps",
+            "address": "Contact your local 4-H office for details.",
+            "email": null,
+            "phone": null,
+            "activities": "Outdoor camping, resilience building, independence skills, pollinator crafts, cooking, financial literacy, and nutrition activities.",
+            "cost": 0,
+            "age_group": "Grades Pre K-10",
+            "start_date": null,
+            "end_date": null,
+            "spots_available": null,
+            "url": "https://4-h.org/4-h-camps",
+            "image": null
+        }
+    },
+    {
+        "model": "camps.camp",
+        "pk": 1,
+        "fields": {
+            "name": "Steve & Kate's Camps",
+            "address": "58 West Portal Ave #800, San Francisco, CA 94127",
+            "email": null,
+            "phone": null,
+            "activities": "Customized daily schedules, independence-building activities, creative projects, tech-savvy programs, tasty meals, and snacks.",
+            "cost": "Varies (Summer Pass or Day Pass options with refunds for unused days)",
+            "age_group": "Ages 4–12 (some states may have higher age requirements)",
+            "start_date": null,
+            "end_date": null,
+            "spots_available": null,
+            "url": "https://steveandkatescamp.com",
+            "image": null
+        }
+    },
+    {
+        "model": "camps.camp",
+        "pk": 2,
+        "fields": {
+            "name": "Teton Valley Ranch Camp",
+            "address": "Ranch Office: 4341 US Highway 26, Dubois, WY 82513; Year-round Office: P.O. Box 4915, 290 East Broadway, Jackson, WY 83001",
+            "email": "mailbag@tvrcamp.org",
+            "phone": "(307) 733-2958",
+            "activities": "Horseback riding, backpacking, wilderness adventures, embracing Western Heritage, and discovering personal grit.",
+            "cost": "Contact for Dates & Rates.",
+            "age_group": "Ages 11–16",
+            "start_date": null,
+            "end_date": null,
+            "spots_available": null,
+            "url": "https://www.tvrcamp.org",
+            "image": null
+        }
+    },
+    {
+        "model": "camps.camp",
+        "pk": 3,
+        "fields": {
+            "name": "Camp Kupugani",
+            "address": "6903 West White Eagle Road, Leaf River, IL 61047, USA",
+            "email": "Kevin@CampKupugani.com",
+            "phone": "(815) 713-4110",
+            "activities": "Team sports, hiking, nature exploration, waterfront activities, swimming, boating, special activities, climbing, rappelling, and leadership programs.",
+            "cost": "Contact for 2025 Dates & Rates.",
+            "age_group": "Ages 7–15",
+            "start_date": null,
+            "end_date": null,
+            "spots_available": null,
+            "url": "https://www.campkupugani.com",
+            "image": null
+        }
+    },
+    {
+        "model": "camps.camp",
+        "pk": 4,
+        "fields": {
+            "name": "Camp Champions",
+            "address": "775 Camp Road, Marble Falls, TX 78654, USA",
+            "email": "info@campchampions.com",
+            "phone": "(830) 598-2571",
+            "activities": "Waterskiing, rock climbing, kayaking, archery, sports, fine arts, and over 50 more activities.",
+            "cost": "See website for session dates and pricing.",
+            "age_group": "Not specified",
+            "start_date": null,
+            "end_date": null,
+            "spots_available": null,
+            "url": "https://www.campchampions.com",
+            "image": null
+        }
+    },
+    {
+        "model": "camps.camp",
+        "pk": 5,
+        "fields": {
+            "name": "Cheley Colorado Camps",
+            "address": "Estes Park Office: PO Box 1170, Estes Park, CO 80517; Denver Office: PO Box 6525, Denver, CO 80206, USA",
+            "email": "office@cheley.com",
+            "phone": "970.586.4244",
+            "activities": "Rocky Mountain exploration, woodshop, backpacking, campfires, and cross-unit opportunities for youth development.",
+            "cost": "See website for specific dates and tuition rates.",
+            "age_group": "Ages 9-17",
+            "start_date": null,
+            "end_date": null,
+            "spots_available": null,
+            "url": "https://www.cheley.com",
+            "image": null
+        }
+    },
+    {
+        "model": "camps.camp",
+        "pk": 6,
+        "fields": {
+            "name": "Camp Quinebarge",
+            "address": "100 Sibley Road, Moultonborough, NH 03254, USA",
+            "email": "fun@campquinebarge.com",
+            "phone": "603-253-6029",
+            "activities": "Monkeytown USA, Color Wars, Carnival, auction, and fun outdoor activities fostering kindness, friendship, and fun.",
+            "cost": "See website for specific dates and rates.",
+            "age_group": "Ages 6-16",
+            "start_date": null,
+            "end_date": null,
+            "spots_available": null,
+            "url": "https://www.campquinebarge.com",
+            "image": null
+        }
+    },
+    {
+        "model": "camps.camp",
+        "pk": 7,
+        "fields": {
+            "name": "Rockbrook Summer Camp for Girls",
+            "address": "Brevard, NC 28712, USA",
+            "email": "office@rockbrookcamp.com",
+            "phone": "828-884-6151",
+            "activities": "Horseback riding, whitewater rafting, pottery, swimming, climbing, ziplining, and arts & crafts.",
+            "cost": "Contact for pricing or refer to catalog for specific session rates.",
+            "age_group": "Ages 6-16",
+            "start_date": null,
+            "end_date": null,
+            "spots_available": null,
+            "url": "https://www.rockbrookcamp.com",
+            "image": null
+        }
+    },
+    {
+        "model": "camps.camp",
+        "pk": 8,
+        "fields": {
+            "name": "YMCA Camp Ralph S. Mason",
+            "address": "23 Birch Ridge Road, Hardwick, NJ 07825, USA",
+            "email": "info@campmason.org",
+            "phone": "908-362-8217",
+            "fax": "908-362-5767",
+            "activities": "Overnight camp, day camp, year-round programs, outdoor activities, and family events.",
+            "cost": "Contact for pricing or refer to the Early Bird Registration for discounts.",
+            "age_group": "Various programs for children, families, and groups.",
+            "start_date": null,
+            "end_date": null,
+            "spots_available": null,
+            "url": "https://www.campmason.org",
+            "image": null
+        }
+    },
+    {
+        "model": "camps.camp",
+        "pk": 9,
+        "fields": {
+            "name": "Camp Moosilauke",
+            "address": "55 Moosilauke Way, Orford, New Hampshire 03777, USA",
+            "email": "info@campmoosilauke.org",
+            "phone": "1-800-353-4546",
+            "fax": null,
+            "activities": "Waterfront activities (sailing, kayaking, wakeboarding), land sports (tennis, basketball, soccer), outdoor adventure, arts and crafts, woodshop, archery.",
+            "cost": "Contact for pricing. Summer job opportunities available.",
+            "age_group": "Boys, ages 8-16.",
+            "start_date": null,
+            "end_date": null,
+            "spots_available": null,
+            "url": "https://www.campmoosilauke.org",
+            "image": null
+        }
+    },
+    {
+        "model": "camps.camp",
+        "pk": 10,
+        "fields": {
+            "name": "Camp Olympia",
+            "address": "723 Olympia Drive, Trinity, Texas 75862, USA",
+            "email": "info@campolympia.com",
+            "phone": "936.594.2541",
+            "fax": null,
+            "activities": "Over 45+ activity options including sports, water fun, arts, horseback riding, outdoor adventure, recreation, hobbies, golf, Spartan/Athenian competition, and nightly camp programs.",
+            "cost": "Contact for pricing. Various session durations available (1-3 weeks).",
+            "age_group": "Boys and girls, ages 6-16.",
+            "start_date": null,
+            "end_date": null,
+            "spots_available": null,
+            "url": "https://www.campolympia.com",
+            "image": null
+        }
+    },
+    {
+        "model": "camps.camp",
+        "pk": 11,
+        "fields": {
+            "name": "Camp Marimeta",
+            "address": "Eagle River, WI, USA",
+            "email": "info@campmarimeta.com",
+            "phone": null,
+            "fax": null,
+            "activities": "Traditional overnight camping and a variety of activities aimed at empowering young women.",
+            "cost": "Contact for pricing. Session details available upon request.",
+            "age_group": "Girls",
+            "start_date": null,
+            "end_date": null,
+            "spots_available": null,
+            "url": "https://www.campmarimeta.com",
+            "image": null
+        }
+    },
+    {
+        "model": "camps.camp",
+        "pk": 12,
+        "fields": {
+            "name": "Camps Equinunk and Blue Ridge",
+            "address": "Equinunk, Pennsylvania, USA",
+            "email": "info@cecbr.com",
+            "phone": "570-224-4121",
+            "fax": null,
+            "activities": "A variety of coed and gender-specific activities focused on character building, friendships, and personal growth.",
+            "cost": "Contact for pricing. Enrollment details available upon request.",
+            "age_group": "Boys and Girls",
+            "start_date": null,
+            "end_date": null,
+            "spots_available": null,
+            "url": "https://www.cecbr.com",
+            "image": null
+        }
+    },
+    {
+        "model": "camps.camp",
+        "pk": 13,
+        "fields": {
+            "name": "Camp Laurel",
+            "address": "PO Box 327, Readfield, ME 04355, USA (Summer) and PO Box 508, Westport, CT 06881, USA (Winter)",
+            "email": "summer@camplaurel.com",
+            "phone": "207-685-4945 (Summer) / 203-227-8866 (Winter)",
+            "fax": null,
+            "activities": "Athletics, Waterfront, Adventure, Inter-Arts, Tennis, Equestrian, group activities, team sports, and individual talent development.",
+            "cost": "Contact for pricing. Enrollment details available upon request.",
+            "age_group": "Boys and Girls",
+            "start_date": "June 21",
+            "end_date": "August 06",
+            "spots_available": null,
+            "url": "https://www.camplaurel.com",
+            "image": null
+        }
+    },
+    {
+        "model": "camps.camp",
+        "pk": 14,
+        "fields": {
+            "name": "iD Tech",
+            "address": "Various Locations across the United States, including University of Washington - Seattle, Bellevue College, Lewis & Clark College, and more.",
+            "email": "hello@iDTech.com",
+            "phone": "1-888-709-8324 (US) / +1 408-871-3700 (International)",
+            "fax": null,
+            "activities": "Coding, Game Development, Robotics, Minecraft Camps, Roblox Camps, Python Camps, Video Game Camps, 3D Printing Camps, AI Camps, YouTube Camps.",
+            "cost": "Contact for pricing. Discount codes available for limited time (e.g., BIGSALE).",
+            "age_group": "Kids and Teens ages 7-18",
+            "start_date": "June 16",
+            "end_date": "August 15",
+            "spots_available": null,
+            "url": "https://www.idtech.com",
+            "image": null
+        }
+    }
+]
